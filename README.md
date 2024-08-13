@@ -34,13 +34,13 @@ Learn CSS! It's pretty easy to define classes in a CSS file and utilize those cl
 ## Want to see examples of Data Explorers that inspired this talk? 
 
 
-NORC's [Live Crime Tracker](https://livecrimetracker.norc.org){target="_blank"}: This site is a good example of a really fleshed-out user experience, with dynamic titles, hover-over labels, reactive notes and context, and lots of cross-linking between pages. 
+NORC's [Live Crime Tracker](https://livecrimetracker.norc.org): This site is a good example of a really fleshed-out user experience, with dynamic titles, hover-over labels, reactive notes and context, and lots of cross-linking between pages. 
 
-MCBS [Chartbook](https://chartbook.mcbs.org){target="_blank"}: This site has great examples for sharing and downloading specific charts. It also has really detailed reactive source, notes, measure construction, and definitions for each selected chart that update based on the user's selection. It also has some fun custom user interface elements, including a styled carousel (thanks to Ian Lyttle for the [`bsplus` package](https://ijlyttle.github.io/bsplus/){target="_blank"})!
+MCBS [Chartbook](https://chartbook.mcbs.org): This site has great examples for sharing and downloading specific charts. It also has really detailed reactive source, notes, measure construction, and definitions for each selected chart that update based on the user's selection. It also has some fun custom user interface elements, including a styled carousel (thanks to Ian Lyttle for the [`bsplus` package](https://ijlyttle.github.io/bsplus/))!
 
 ## What else can I do with Shiny? 
 
--  Add site metatags (these show up when you share a link to social media) using the [`metathis` package](https://github.com/gadenbuie/metathis){target="_blank"}.  
+-  Add site metatags (these show up when you share a link to social media) using the [`metathis` package](https://github.com/gadenbuie/metathis).  
 -  Add site-wide footers or details like links to a privacy policy or terms and conditions.
 -  Do just about anything you can do in full-on HTML and CSS! 
 
