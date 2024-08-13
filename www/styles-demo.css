@@ -1,0 +1,13 @@
+/* move the navbar over to the right side! */
+.navbar-nav {
+  float: right;
+}
+
+
+.homepage-cards {
+  padding: 10px; 
+  padding-top: 5px; 
+  background-color: #D5D0CA; 
+  border-radius: 5px; 
+  min-height: 150px;
+}
